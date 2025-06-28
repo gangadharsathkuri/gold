@@ -1,0 +1,9 @@
+{
+	"name": "ADF-devi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ed4c171-7a9d-43be-8e2a-c928040dd35c",
+		"tenantId": "fcff4fe3-aabf-4f4a-966a-60cf3f606b05"
+	}
+}
